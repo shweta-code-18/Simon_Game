@@ -4,6 +4,13 @@ body{
     font-family: "Press Start 2P", system-ui;
 }
 
+h1 {
+    color: white;
+}
+h2 {
+    color: white;
+}
+
 .btn{
     width: 200px;
     height: 200px;
