@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-color: rgb(45, 138, 185);
+    font-family: "Press Start 2P", system-ui;
+}
+
+.btn{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2rem;
+    
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: pink;
+}
